@@ -1,8 +1,7 @@
 # Hello, I'm Nang Htike Aung (Harry)
 <a href="https://linkedin.com/in/nanghtikeaung"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a IT professional with a profound interest in technology and a dedication to solving complex problems. 
-I have over 12 years of work experience on various industries such as Telecommunications, Hospitality and Startups.
+I am an experienced IT professional passionate about technology and committed to tackling intricate challenges. With a track record spanning more than 12 years, I have honed my expertise across diverse sectors including Telecommunications, Hospitality, and Startups.
 
 ## Objective
 
