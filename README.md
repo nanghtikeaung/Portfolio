@@ -49,11 +49,10 @@ I aspire to transition into roles as a Cybersecurity SOC Analyst and Cloud Secur
 | Certificate                                         | Certification Document         |
 |-----------------------------------------------|----------------------------|
 | ECcouncil Ethical Hacking Essentials       | <a href="Certificates/759ca463-526c-4277-8f57-6e46978aafbf.png">View Certificate</a>|
+| ISC2 Certificate of Cyber Security                | <a href="">View Certificate</a> |
 | PMI Generative AI Overview for Project Managers | <a href="https://www.credly.com/badges/b5271713-9955-46ff-a851-bcf6c2604fa3/public_url">View Certificate</a>|
 | Cisco CCNA Recognition        | <a href="Certificates/CCNA-Recognition.jpg">View Certificate</a>|
 | KOICA-MM Project Management     | <a href="Certificates/KOICA PM.jpg">View Certificate</a> |
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Projects
 - Detection Lab
