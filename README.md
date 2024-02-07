@@ -1,7 +1,11 @@
 # Hello, I'm Nang Htike Aung (Harry)
 <a href="https://linkedin.com/in/nanghtikeaung"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an experienced IT professional passionate about technology and committed to tackling intricate challenges. With a track record spanning more than 12 years, I have honed my expertise across diverse sectors including Telecommunications, Hospitality, and Startups.
+I am an adept IT professional with a profound interest in technology and a steadfast dedication to resolving complex problems. My extensive career of over 12 years has equipped me with a wealth of experience across multiple industries, including Telecommunications, Hospitality, and Startups. Despite my accomplished background, I am eager to transition into the dynamic field of IT Security, recognizing its paramount importance in today's digital landscape.
+
+While I am relatively new to the realm of cybersecurity, I am deeply committed to expanding my knowledge and skills in this area. I am prepared to invest the time and effort necessary to upskill myself and stay abreast of the latest advancements and best practices. With a proactive mindset and a willingness to learn, I am confident in my ability to make a successful transition and contribute meaningfully to the cybersecurity domain.
+
+My passion for technology, coupled with my proven ability to adapt and thrive in diverse environments, positions me as a valuable asset in the field of IT Security. I am eager to leverage my existing expertise in IT alongside my newfound enthusiasm for cybersecurity to tackle emerging challenges and safeguard critical assets. As I embark on this exciting journey, I am committed to giving my best and contributing positively to the ever-evolving landscape of cybersecurity.
 
 ## Objective
 
