@@ -9,7 +9,7 @@ My passion for technology, coupled with my proven ability to adapt and thrive in
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I aspire to transition into roles as a Cybersecurity SOC Analyst and Cloud Security Architect, leveraging my extensive IT background. Committed to upskilling in cybersecurity practices, I aim to contribute my proactive problem-solving skills and passion for technology to safeguard digital assets and architect secure cloud environments.
 
 ## Skills
 
