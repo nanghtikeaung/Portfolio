@@ -3,9 +3,9 @@
 
 I am an adept IT professional with a profound interest in technology and a steadfast dedication to resolving complex problems. My extensive career of over 12 years has equipped me with a wealth of experience across multiple industries, including Telecommunications, Hospitality, and Startups. Despite my accomplished background, I am eager to transition into the dynamic field of IT Security, recognizing its paramount importance in today's digital landscape.
 
-While I am relatively new to the realm of cybersecurity, I am deeply committed to expanding my knowledge and skills in this area. I am prepared to invest the time and effort necessary to upskill myself and stay abreast of the latest advancements and best practices. With a proactive mindset and a willingness to learn, I am confident in my ability to make a successful transition and contribute meaningfully to the cybersecurity domain.
+# CyberSecurity Pathway
 
-My passion for technology, coupled with my proven ability to adapt and thrive in diverse environments, positions me as a valuable asset in the field of IT Security. I am eager to leverage my existing expertise in IT alongside my newfound enthusiasm for cybersecurity to tackle emerging challenges and safeguard critical assets. As I embark on this exciting journey, I am committed to giving my best and contributing positively to the ever-evolving landscape of cybersecurity.
+While I am relatively new to the realm of cybersecurity, I am deeply committed to expanding my knowledge and skills in this area. I am prepared to invest the time and effort necessary to upskill myself and stay abreast of the latest advancements and best practices. With a proactive mindset and a willingness to learn, I am confident in my ability to make a successful transition and contribute meaningfully to the cybersecurity domain.
 
 ## Objective
 
@@ -49,7 +49,7 @@ I aspire to transition into roles as a Cybersecurity SOC Analyst and Cloud Secur
 | Certificate                                         | Certification Document         |
 |-----------------------------------------------|----------------------------|
 | ECcouncil Ethical Hacking Essentials       | <a href="Certificates/759ca463-526c-4277-8f57-6e46978aafbf.png">View Certificate</a>|
-| ISC2 Certificate of Cyber Security                | <a href="">View Certificate</a> |
+| ISC2 Certificate of Cyber Security                | <a href="Certificates/isc2 CC Digital Certificate.pdf">View Certificate</a> |
 | PMI Generative AI Overview for Project Managers | <a href="https://www.credly.com/badges/b5271713-9955-46ff-a851-bcf6c2604fa3/public_url">View Certificate</a>|
 | Cisco CCNA Recognition        | <a href="Certificates/CCNA-Recognition.jpg">View Certificate</a>|
 | KOICA-MM Project Management     | <a href="Certificates/KOICA PM.jpg">View Certificate</a> |
