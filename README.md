@@ -11,6 +11,17 @@ While I am relatively new to the realm of cybersecurity, I am deeply committed t
 
 I aspire to transition into roles as a Cybersecurity SOC Analyst and Cloud Security Architect, leveraging my extensive IT background. Committed to upskilling in cybersecurity practices, I aim to contribute my proactive problem-solving skills and passion for technology to safeguard digital assets and architect secure cloud environments.
 
+## Certifications
+
+| Certificate                                         | Certification Document         |
+|-----------------------------------------------|----------------------------|
+| ISC2 Certificate of Cyber Security                | <a href="Certificates/isc2 CC Digital Certificate.pdf">View Certificate</a> |
+| Google Certified Cyber Security                | <a href="Certificates/Coursera SESED5MAEKMC.pdf">View Certificate</a> |
+| ECcouncil Ethical Hacking Essentials       | <a href="Certificates/759ca463-526c-4277-8f57-6e46978aafbf.png">View Certificate</a>|
+| PMI Generative AI Overview for Project Managers | <a href="https://www.credly.com/badges/b5271713-9955-46ff-a851-bcf6c2604fa3/public_url">View Certificate</a>|
+| Cisco CCNA Recognition        | <a href="Certificates/CCNA-Recognition.jpg">View Certificate</a>|
+| KOICA-MM Project Management     | <a href="Certificates/KOICA PM.jpg">View Certificate</a> |
+
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -43,16 +54,6 @@ I aspire to transition into roles as a Cybersecurity SOC Analyst and Cloud Secur
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
-
-## Certifications
-
-| Certificate                                         | Certification Document         |
-|-----------------------------------------------|----------------------------|
-| ECcouncil Ethical Hacking Essentials       | <a href="Certificates/759ca463-526c-4277-8f57-6e46978aafbf.png">View Certificate</a>|
-| ISC2 Certificate of Cyber Security                | <a href="Certificates/isc2 CC Digital Certificate.pdf">View Certificate</a> |
-| PMI Generative AI Overview for Project Managers | <a href="https://www.credly.com/badges/b5271713-9955-46ff-a851-bcf6c2604fa3/public_url">View Certificate</a>|
-| Cisco CCNA Recognition        | <a href="Certificates/CCNA-Recognition.jpg">View Certificate</a>|
-| KOICA-MM Project Management     | <a href="Certificates/KOICA PM.jpg">View Certificate</a> |
 
 ## Projects
 - Detection Lab
