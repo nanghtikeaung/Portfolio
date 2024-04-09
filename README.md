@@ -3,7 +3,7 @@
 
 I am an adept IT professional with a profound interest in technology and a steadfast dedication to resolving complex problems. My extensive career of over 12 years has equipped me with a wealth of experience across multiple industries, including Telecommunications, Hospitality, and Startups. Despite my accomplished background, I am eager to transition into the dynamic field of IT Security, recognizing its paramount importance in today's digital landscape.
 
-# CyberSecurity Pathway
+## Cyber Career Transition
 
 While I am relatively new to the realm of cybersecurity, I am deeply committed to expanding my knowledge and skills in this area. I am prepared to invest the time and effort necessary to upskill myself and stay abreast of the latest advancements and best practices. With a proactive mindset and a willingness to learn, I am confident in my ability to make a successful transition and contribute meaningfully to the cybersecurity domain.
 
